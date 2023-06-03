@@ -1,1 +1,1 @@
-From goharbor/registry-photon:v2.8.1
+From goharbor/trivy-adapter-photon:v2.8.1
