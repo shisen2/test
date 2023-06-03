@@ -1,1 +1,1 @@
-From goharbor/registry-photon:v2.8.1
+From goharbor/harbor-exporter:v2.8.1
