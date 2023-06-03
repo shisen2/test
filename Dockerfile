@@ -1,1 +1,1 @@
-From goharbor/harbor-exporter:v2.8.1
+From goharbor/nginx-photon:v2.8.1
