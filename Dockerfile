@@ -1,1 +1,1 @@
-From goharbor/notary-server-photon:v2.8.1
+From goharbor/notary-signer-photon:v2.8.1
