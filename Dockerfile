@@ -1,1 +1,1 @@
-From goharbor/redis-photon:v2.8.1
+From goharbor/registry-photon:v2.8.1
