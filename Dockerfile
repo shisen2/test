@@ -1,1 +1,1 @@
-From goharbor/harbor-portal:v2.8.1
+From goharbor/harbor-registryctl:v2.8.1
