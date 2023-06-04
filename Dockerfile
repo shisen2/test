@@ -1,1 +1,1 @@
-From goharbor/nginx-photon:v2.8.1
+From registry.k8s.io/ingress-nginx/opentelemetry:v20230527@sha256:fd7ec835f31b7b37187238eb4fdad4438806e69f413a203796263131f4f02ed0
